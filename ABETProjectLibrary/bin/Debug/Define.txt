@@ -1,0 +1,35 @@
+SQLite3 NBA.db
+
+.databases
+.tables
+.schema
+
+CREATE TABLE [Team]
+(
+	[TeamNum] INT NOT NULL PRIMARY KEY,
+    [TeamName] CHAR(25) NULL,
+    [City] CHAR(20) NULL, 
+    [ArenaName] CHAR(50) NULL, 
+    [Owner] CHAR(30) NULL, 
+    [Headcoach] CHAR(30) NULL, 
+    [Mascot] CHAR(30) NULL 
+);
+
+CREATE TABLE [Player]
+(
+	[PlayerNum] INT NOT NULL PRIMARY KEY, 
+    [FirstName] CHAR(15) NULL, 
+    [LastName] CHAR(15) NULL, 
+    [Age] INT(2) NULL,
+    [Position] CHAR(15) NULL,
+    [JerseyNum] INT(5) NULL,
+    [TeamNum] INT(5) NULL,
+    [Points] INT(3) NULL,
+    [FieldGoalPercentage] INT(3) NULL,
+    [ThreePointPercentage] INT(3) NULL,
+    [Rebounds] INT(3) NULL,
+    [Assists] INT(3) NULL,
+    [Steals] INT(3) NULL,
+    [Blocks] INT(3) NULL
+);
+

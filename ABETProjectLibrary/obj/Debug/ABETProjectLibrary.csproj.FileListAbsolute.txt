@@ -1,0 +1,28 @@
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectLibrary\bin\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectLibrary\bin\Debug\ABETProjectLibrary.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.AssemblyReference.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.CoreCompileInputs.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectLibrary\bin\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectLibrary\bin\Debug\ABETProjectLibrary.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectLibrary\bin\Debug\System.Data.SQLite.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.AssemblyReference.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.CoreCompileInputs.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.CopyComplete
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectLibrary\bin\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectLibrary\bin\Debug\ABETProjectLibrary.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.AssemblyReference.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.CoreCompileInputs.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.CopyComplete
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.pdb
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectLibrary\bin\Debug\ABETProjectLibrary.dll
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectLibrary\bin\Debug\ABETProjectLibrary.pdb
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.AssemblyReference.cache
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.CoreCompileInputs.cache
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.csproj.CopyComplete
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.dll
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectLibrary\obj\Debug\ABETProjectLibrary.pdb

@@ -1,0 +1,68 @@
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.exe.config
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.exe
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectConsole.exe
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectConsole.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectConsole.exe.config
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectLibrary.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.AssemblyReference.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.SuggestedBindingRedirects.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.Database.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.Properties.Resources.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.GenerateResource.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.CoreCompileInputs.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.CopyComplete
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.exe
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 7\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.exe.config
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.exe
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectConsole.exe
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\System.Data.SQLite.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectConsole.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectConsole.exe.config
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectLibrary.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.AssemblyReference.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.SuggestedBindingRedirects.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.Database.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.Properties.Resources.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.GenerateResource.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.CoreCompileInputs.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.CopyComplete
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.exe
+D:\Davenport\Fall 2022\Object-Oriented 234\Week 8\HW\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.exe.config
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.exe
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectGUI.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectLibrary.dll
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\bin\Debug\ABETProjectLibrary.pdb
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.AssemblyReference.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.SuggestedBindingRedirects.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.DisplayForm.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.NBADatabase.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.NewForm.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.OpenForm.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.Properties.Resources.resources
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.GenerateResource.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.CoreCompileInputs.cache
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.CopyComplete
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.exe
+D:\Davenport\Fall 2022\Object-Oriented 234\ABET Project\ABETProjectSolution\ABETProjectGUI\obj\Debug\ABETProjectGUI.pdb
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\bin\Debug\ABETProjectGUI.exe.config
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\bin\Debug\ABETProjectGUI.exe
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\bin\Debug\ABETProjectGUI.pdb
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\bin\Debug\ABETProjectLibrary.dll
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\bin\Debug\ABETProjectLibrary.pdb
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.AssemblyReference.cache
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.DisplayForm.resources
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.NBADatabase.resources
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.NewForm.resources
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.OpenForm.resources
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.Properties.Resources.resources
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.GenerateResource.cache
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.CoreCompileInputs.cache
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.csproj.CopyComplete
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.exe
+C:\Users\brois\Documents\Davenport\ABETProjectSolution - Copy\ABETProjectGUI\obj\Debug\ABETProjectGUI.pdb
